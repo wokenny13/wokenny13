@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenny Wong
-- 👀 I’m interested in powerlifting, outdoor activities and data analysis!
-- 🌱 I’m currently learning Github and learning about the different water data programs within the Office of Water (OW)
-- 💞️ I’m looking to collaborate on EPA/TADA R package
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently working on EPA TADA Development within the Water Data Integration Branch (WDIB) under the Office of Water (OW)
+- 💞️ I’m looking to collaborate on EPA/TADA R package, EPA/TADAShiny R application and other Water Data Projects
 - 📫 How to reach me personal email: wokenny13@gmail.com
 
 <!---
